@@ -1,5 +1,6 @@
 
-> Abrir essa página em [https://isobew.github.io/jogo_impar_ou_par_microbit/](https://isobew.github.io/jogo_impar_ou_par_microbit/)
+> Abrir essa página em [https://isobew.github.io/jogo_impar_ou_par_microbit/](https://isobew.github.io/jogo_impar_ou_par_microbit/) </br>
+> Veja o Jogo nesse <a href="https://makecode.microbit.org/_b298d9AkvLor">link.
 
 ## Usar como extensão
 
